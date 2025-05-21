@@ -1,25 +1,24 @@
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-
-## AIM
-To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
-
-## Scenario:
-You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
-
-Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
-
-Accuracy
-
-Coherence
-
-Simplicity
-
-Speed
-
-User experience
-
-## Algorithm
-
-## Result
-
-
+NAME : NAVEEN KUMAR T
+REG NO : 212223220067
+ExNo-3 : EXP 3: Evaluation of Prompting Tools Across Diverse AI Platforms:
+ChatGPT, Claude, Bard, Cohere Command, and Meta
+ChatGPT, Claude, Bard, Cohere Command, and Meta
+Aim:
+To compare the performance, user experience, and response quality of different AI
+platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use
+case, such as summarizing text or answering technical questions. Generate a Prompt
+based output using different Prompting tools of 2024.
+Introduction:
+Objective: Compare the performance, user experience, and response quality of AI
+platforms in a specific use case.
+Use Case: Explanatory & Creative Writing
+AI Platforms Tested: ChatGPT, Claude, Gemini, Meta
+Experiment Setup
+Use Case: Concept Explanation & Short-Form Creative Writing
+Evaluation Criteria:
+Accuracy: Correctness and relevance of the response
+Response Time: Speed and responsiveness
+UX (User Experience): Clarity, structure, and user-friendly language
+Prompt 1 (Concept Explanation):
+"In 3-4 sentences, explain the difference between classical programming and machine
+learning.
